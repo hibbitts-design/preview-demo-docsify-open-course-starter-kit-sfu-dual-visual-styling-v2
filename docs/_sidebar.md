@@ -23,7 +23,7 @@
 
 :root {
 
-    --font-family: "Lato Extended","Lato","Helvetica Neue",Arial,sans-serif;
+    --font-family: "Source Sans 3", "Helvetica Neue", Arial, sans-serif;
 
     --theme-color: #CC0633!important;
     --link-color: #CC0633!important;

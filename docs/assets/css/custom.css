@@ -5,9 +5,9 @@ Put your custom CSS in this file.
 */
 
 /* CSS to better visually match Docsify pages within Canvas LMS (uncomment to use) */
-/*
-@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+/*
 body .markdown-section {
     font-family: "Lato Extended","Lato","Helvetica Neue",Arial,sans-serif;
     line-height: 1.4;
