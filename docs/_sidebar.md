@@ -20,11 +20,11 @@
 <style>
 
   body .markdown-section {
-      font-family: "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
+      font-family: "Source Sans 3", "Helvetica Neue", Arial, sans-serif;
       line-height: 1.4;
       font-size: 16px;
   }
-  
+
 /* Link colors to match SFU branding visual styling (uncomment to use) */
 
 :root {
