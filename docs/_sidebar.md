@@ -29,7 +29,7 @@
     --link-color: #CC0633!important;
     --link-color-hover: var(--link-color);
     --link-underline-color: #CC0633!important;
-    --link-underline-thickness: 1px;
+    --link-underline-thickness: auto;
     --link-underline-thickness-hover: var(--link-underline-thickness);
 
     --blockquote-border-color: #757B7F!important;
